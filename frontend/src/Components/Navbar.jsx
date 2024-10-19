@@ -32,7 +32,7 @@ function Navbar(props) {
     <div>
       <nav>
         <div className="logo1">
-          <img src={logo} alt="" />
+        Rajeev Gandhi Memorial Academy
         </div>
         <div className="navigation">
           <div id="menu-btn">
